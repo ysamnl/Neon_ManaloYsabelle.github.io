@@ -1,0 +1,163 @@
+body{
+	width: 1500px;
+	box-sizing: border-box;
+	background-image: url(../images/background.jpg);
+	background-size: 930px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.Logo2{
+	position: relative;
+	top: 100px;
+	font-size: 100px;
+	margin-left: 450px;
+	padding-top: 0px;
+	color: #f7f7f7;
+}
+.Lead{
+	border: none;
+	margin-left: 570px;
+	margin-right: 550px;
+	padding: 10px;
+	
+}
+.intro{
+	margin-left: 450px;
+	margin-right: 200px;
+	margin-top: 10px;
+	width: 650px;
+	padding: 10px;
+	text-indent: 50px;
+	background-color:#a7aba8;
+	opacity: 0.7;
+	z-index: 1;
+}
+.intro2{
+	position: relative;
+	bottom: 264px;
+	width: 650px;
+	margin-left: 450px;
+	margin-right: 200px;
+	margin-top: 10px;
+	padding: 10px;
+	text-indent: 50px;
+	color: white;
+	text-shadow:2px 2px 4px #000000;
+	z-index: 2;
+}
+.one{
+	position: relative;
+	bottom: 200px;
+	left: 50px;
+	border: none;
+	padding: 10px;
+	text-align: center;
+	float: left;
+	margin-left: 170px;
+	margin-right:10px;
+	color: white;
+	text-shadow:2px 1px 2px #000000;
+}
+.two{
+	position: relative;
+	bottom: 200px;
+	left: 0px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+	margin-left: 10px;
+	color: white;
+	text-shadow:2px 1px 2px #000000;
+}
+.three{
+	position: relative;
+	bottom: 190px;
+	right: 38px;
+	text-align: center;
+	float: left;
+	color: white;
+	text-shadow:2px 1px 2px #000000;
+}
+.four{
+	position: relative;
+	bottom: 200px;
+	right: 78px;
+	padding: 10px;
+	text-align: center;
+	float: left;
+	color: white;
+	text-shadow:2px 1px 2px #000000;
+}
+.contact{
+	border: none;
+	float: right;
+}
+.logo{
+	position: relative;
+	bottom: 100px;
+	left: 20px;
+	border: none;
+	padding:10px;
+}
+.info{
+	position: relative;
+	bottom: 130px;
+	color: white;
+	float: right;
+	margin-right: 20px;
+	clear:both;
+}
+.fb{
+	margin-right: 90px;
+	background: url(../images/socmedsprite.png) no-repeat -1264px -1410px;
+	width: 52px;
+	height: 48px;
+}
+.ig{
+	background: url(../images/socmedsprite.png) no-repeat -1263px -1471px;
+	width: 52px;
+	height: 50px;
+}
+.twt{
+	background: url(../images/socmedsprite.png) no-repeat -1262px -1532px;
+	width: 50px;
+	height: 40px;
+}
+.details{
+	border: none;
+	padding: 10px;
+	margin-right: 20px;
+}
+.one:hover{
+	opacity:0.5;
+	color: #fcba03;
+}
+.two:hover{
+	opacity:0.5;
+	color: #fcba03;
+}
+.three:hover{
+	opacity:0.5;
+	color: #fcba03
+}
+.four:hover{
+	opacity:0.5;
+	color: #fcba03;
+}
+.fb:hover{
+	background: url(../images/socmedsprite.png) no-repeat -1171px -1411px;
+	width: 52px;
+	height: 48px;
+}
+.ig:hover{
+	background: url(../images/socmedsprite.png) no-repeat -1171px -1472px;
+	width: 52px;
+	height: 49px;
+}
+.twt:hover{
+	background: url(../images/socmedsprite.png) no-repeat -1176px -1535px;
+	width: 49px;
+	height: 39px;
+}
